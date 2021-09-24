@@ -7,7 +7,7 @@ namespace Exercicio_JurosSimples
         static void Main(string[] args)
         {
             decimal montante;
-            double taxajuros, capital, juros, tempo;
+            decimal taxajuros, capital, juros, tempo;
         
             Console.ForegroundColor = ConsoleColor.DarkBlue;
             Console.WriteLine("\nApós digitar todas as informaões necessárias  o progama ira calcular o montante final de um investimento a juros simples.\n");
